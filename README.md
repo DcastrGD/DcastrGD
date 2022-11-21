@@ -2,11 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DcastrGD?color=1DA1F2&label=DcastrGD&logo=twitter&style=for-the-badge)](https://twitter.com/DcastrGD)
 
+<img src="https://tecnoticias.net/wp-content/uploads/2022/08/code_g1019737194.jpg">
+
 ---
 
 ### 📈 Lo que me gusta aprender
 - 📌 La programación web
-- 📍  Aprender nuevas tecnologías
+- 📍 Aprender nuevas tecnologías
 - 🎉 Aprender nuevos lenguajes 
 
 ---
